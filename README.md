@@ -5,11 +5,9 @@
 - 📚 Constante aprendizado em **Front End** suas libs e frameworks
 - 👾 Repositório pessoal <a href="https://github.com/thh-carvalho" target="_blank">Thiago Carvalho</a>
 
-<div align="center">
-  <a href="https://github.com/bastos-stalse">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bastos-stalse&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastos-stalse&layout=compact"/>
-</div>
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastos-stalse&show_icons=true&theme=chartreuse-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastos-stalse&layout=compact&theme=chartreuse-dark)](https://github.com/bastos-stalse/github-readme-stats)
   
 ## 🛠 Tools
 
