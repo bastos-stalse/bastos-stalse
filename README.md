@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/bastos-stalse">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bastos-stalse&show_icons=true&theme=radical/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bastos-stalse&show_icons=true&theme=radical"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastos-stalse&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
