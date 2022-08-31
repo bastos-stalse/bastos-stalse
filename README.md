@@ -1,9 +1,9 @@
 ### Olá! sou o Thiago Bastos 👋
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
 - 👨‍💻 Atualmente trabalhando como **Front End & Web Analytics Developer** na <a href="https://www.stalse.com/" target="_blank">Stalse Analytics</a>
-- 🚀 Futuro **Software Engineere**
+- 🚀 Futuro **Software Engineer**
 - 📚 Constante aprendizado em **Front End** suas libs e frameworks
-- 👾 Repositório pessoal <a href="https://github.com/bastos-stalse" target="_blank">Thiago Bastos</a>
+- 👾 Repositório pessoal <a href="https://github.com/thh-carvalho" target="_blank">Thiago Carvalho</a>
 
 <div align="center">
   <a href="https://github.com/bastos-stalse">
