@@ -7,7 +7,7 @@
 
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastos-stalse&show_icons=true&theme=chartreuse-dark)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrossim&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastos-stalse&layout=compact&langs_count=7&theme=dracula"/>
   
 ## 🛠 Tools
 
