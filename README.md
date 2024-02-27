@@ -3,11 +3,13 @@
 - 👨‍💻 Atualmente trabalhando como **Front End & Web Analytics Developer** na <a href="https://www.stalse.com/" target="_blank">Stalse Analytics</a>
 - 🚀 Futuro **Software Engineer**
 - 📚 Constante aprendizado em **Front End** suas libs e frameworks
-- 👾 Repositório pessoal <a href="https://github.com/thh-carvalho" target="_blank">Thiago Carvalho</a>
+- 👾 Repositório pessoal <a href="https://github.com/thh-carvalho" target="_blank">Thiago </a>
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastos-stalse&show_icons=true&theme=chartreuse-dark)
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastos-stalse&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/bastos-stalse">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bastos-stalse&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastos-stalse&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
 ## 🛠 Tools
 
